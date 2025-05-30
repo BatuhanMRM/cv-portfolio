@@ -3,7 +3,7 @@
 Merhaba! Ben Batuhan Mermi, dijital oyun tasarımcısıyım. Bu repository, kişisel CV ve portfolyo websitemi içermektedir.
 
 ## 🌐 Website
-[CV & Portfolio Website](http://localhost:3000)
+[CV & Portfolio Website](https://batuhanmrm.github.io/cv-portfolio/)
 
 ## 🎯 Özellikler
 - Modern ve responsive tasarım
