@@ -3,13 +3,13 @@
 Merhaba! Ben Batuhan Mermi, dijital oyun tasarımcısıyım. Bu repository, kişisel CV ve portfolyo websitemi içermektedir.
 
 ## 🌐 Website
-This repository contains my personal CV and portfolio website. To view the site:
-
-1. Clone this repository
-2. Run `npx http-server` in the project directory
-3. Open http://localhost:8080/CV_Cursor/ in your browser
+**Live Site:** [https://batuhanmrm.github.io/cv-portfolio/](https://batuhanmrm.github.io/cv-portfolio/)
 
 **Repository:** [https://github.com/BatuhanMRM/cv-portfolio](https://github.com/BatuhanMRM/cv-portfolio)
+
+**Local Development:**
+- Clone the repository and run `npx http-server` to view locally
+- Access via: http://localhost:8080/CV_Cursor/
 
 ## 🎯 Özellikler
 - Modern ve responsive tasarım
