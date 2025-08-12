@@ -61,17 +61,4 @@ Merhaba! Ben Batuhan Mermi, dijital oyun tasarımcısıyım. Bu repository, kiş
 - [LinkedIn](https://www.linkedin.com/in/batuhan-mermi-85886130b/)
 - [ArtStation](https://www.artstation.com/batuhanmermi)
 
-## 🔧 Kurulum ve Çalıştırma
-1. Repository'yi klonlayın
-```bash
-git clone https://github.com/BatuhanMRM/cv-portfolio.git
-```
-2. Proje dizinine gidin
-```bash
-cd cv-portfolio
-```
-3. Bir local server başlatın (örneğin http-server kullanarak)
-```bash
-npx http-server
-```
-4. Tarayıcınızda http://localhost:8080 adresini açın
+
